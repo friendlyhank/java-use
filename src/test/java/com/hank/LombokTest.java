@@ -8,6 +8,11 @@ import org.junit.Test;
 
 import java.awt.*;
 
+/**
+ * Setter
+ * Getter
+ */
+
 @Getter
 @Setter
 public class LombokTest

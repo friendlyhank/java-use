@@ -5,7 +5,10 @@ import java.awt.*;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 
-//(1)extends JPanel面板
+/**
+ * GamePanel面板
+ */
+
 public class GamePanel extends JPanel{
 
 
